@@ -11,6 +11,11 @@ h1 {
     font-size: 24px;
 }
 
+h2 {
+    font-size: 24px;
+    text-align: left;
+}
+
 .row {
     display: flex;
 }
@@ -19,5 +24,15 @@ h1 {
     flex: 1;
     padding: 10px;
     text-align: left;
+}
+
+.navi {
+    border: 1px solid #0000002b;
+    background-color: #00000014;
+    padding: 3px;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 4px;
+    margin-right: 10px;
 }
 
