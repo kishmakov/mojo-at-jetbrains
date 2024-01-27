@@ -7,6 +7,10 @@ body {
     width: 90%;
 }
 
+.screenshot {
+    max-width: 1000px;
+}
+
 h1 {
     font-size: 24px;
 }
